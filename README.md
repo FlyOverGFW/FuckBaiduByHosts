@@ -4,6 +4,14 @@
 
 hosts替换
 
-## 来源
+## 使用
+
+1. 下载 [hosts](https://raw.githubusercontent.com/weaming/FuckBaiduByHosts/master/hosts.txt)
+2. 复制粘贴
+ - Windows:`C:\WINDOWS\system32\drivers\etc\hosts`
+ - OSX: `/etc/hosts`
+ - Linux: `/etc/hosts`
+
+## 参考来源
 
 http://www.baidu.com/more/
