@@ -1,7 +1,6 @@
-#127.0.0.1  baidu.com
-#127.0.0.1  www.baidu.com
-45.32.21.96  baidu.com
-45.32.21.96  www.baidu.com
+#45.32.21.96  www.baidu.com
+127.0.0.1  baidu.com
+127.0.0.1  www.baidu.com
 127.0.0.1  qiao.baidu.com
 127.0.0.1  h5.baidu.com
 127.0.0.1  duer.baidu.com
